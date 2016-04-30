@@ -22,6 +22,8 @@ Features:<br>
 iBeacon = a BLE protocol created by Apple.<br>
 Beacon = hardware, a device which sends out BLE signals in intervals, if configured with iBeacon, then they sends out UUID, major and minor. 
 
+For more information, check out [Estimote](http://estimote.com/)
+
 
 [Source](https://github.com/axelnyberg/iBeaconRetail)
 
