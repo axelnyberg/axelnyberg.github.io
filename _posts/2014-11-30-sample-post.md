@@ -3,4 +3,4 @@ layout: post
 title: Sample post
 ---
 
-![My helpful screenshot]({{ site.url }}/img/DiceGame.gif)
+![My helpful screenshot](https://{{site.url}}/img/DiceGame.gif)
