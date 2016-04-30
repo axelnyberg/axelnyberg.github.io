@@ -4,4 +4,4 @@ title: Sample post
 ---
 
 
-![My helpful screenshot]({{ site.url }}/img/checkstudbo.gif)
+![My helpful screenshot](/img/checkstudbo.gif)
