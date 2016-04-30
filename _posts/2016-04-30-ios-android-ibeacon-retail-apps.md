@@ -9,6 +9,8 @@ The thesis was about retailer’s interests in iBeacon with beacons and to make 
 
 The apps were built with shared code in Xamarin Studio. The apps were made to look good with only some features that have to do with iBeacon.
 
+Language: C#
+
 Features:<br>
 *Sends a notification automatically when a user enters or leaves a beacon's region. <br>
 *Automatically shows product information in a web view when a user holds their phone close to a psychical product. <br>
