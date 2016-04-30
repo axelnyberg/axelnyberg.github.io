@@ -11,7 +11,7 @@ theme:
   description: "This Website includes a blog and my portfolio." # used by search engines
 
   # Header and footer text
-  header_text: > ""
+  header_text: >
     
   header_text_feature_image:
   footer_text: >
