@@ -2,4 +2,5 @@
 layout: post
 title: Sample post
 ---
-![My helpful screenshot](https://axelnyberg.github.io/img/DiceGame.gif)
+
+![My helpful screenshot]({{ site.url }}/img/DiceGame.gif)
