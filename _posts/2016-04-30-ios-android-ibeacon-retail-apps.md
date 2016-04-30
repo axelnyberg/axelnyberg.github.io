@@ -5,7 +5,7 @@ title: iOS and Android Apps Created With Xamarin and iBeacon technology as a con
 ![Geometric pattern with fading gradient](/img/ibeaconRetail.gif)
 
 These two applications were built for my thesis so valid data could be collected from retailers. 
-The thesis was about retailer’s interests in iBeacon and beacons and to make retailers really understand the concept, these two applications had to be built so they could try the technology. 
+The thesis was about retailer’s interests in iBeacon with beacons and to make retailers really understand the concept, these two applications had to be built so they could try the technology. 
 
 The apps were built with shared code in Xamarin Studio. The apps were made to look good with only some features that have to do with iBeacon.
 
