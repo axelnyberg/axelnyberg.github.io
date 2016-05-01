@@ -15,7 +15,9 @@ theme:
     <p>Welcome! Take a look at my portfolio.</p>
   header_text_feature_image:
   footer_text: >
-   ![Geometric pattern with fading gradient](/favicon.png)
+  
+   <img src="favicon.png">
+
   # Icons
   rss: false
   email_address: "axelnyberg@icloud.com" # Full email address, e.g. "sam@example.com"
