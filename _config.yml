@@ -16,7 +16,7 @@ theme:
   header_text_feature_image:
   footer_text: >
  
-   <img src="favicon.png" style="width:304px;height:228px;">
+   <img src="{{site.url}}/favicon.png" style="width:304px;height:228px;">
 
   # Icons
   rss: false
