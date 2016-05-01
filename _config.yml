@@ -15,8 +15,8 @@ theme:
     <p>Welcome! Take a look at my portfolio.</p>
   header_text_feature_image:
   footer_text: >
-  
-   <img src="favicon.png">
+ 
+   <img src="favicon.png" style="width:304px;height:228px;">
 
   # Icons
   rss: false
