@@ -14,7 +14,7 @@ article {
     @extend %link-hover;
   }
   .footnotes {
-    font-size: 0.9em;
+    font-size: 0.1em;
   }
 }
 header {
@@ -23,7 +23,7 @@ header {
   }
   .meta {
     color: rgba($text-color, .5);
-    font-size: 0.9em;
+    font-size: 0.1em;
     letter-spacing: 0.1em;
     margin: 0;
     text-transform: uppercase;
@@ -59,7 +59,7 @@ header {
   }
 
   .page-title {
-    font-size: 1.2em;
+    font-size: 0.2em;
     margin-bottom: 1em;
     width: 100%;
   }
