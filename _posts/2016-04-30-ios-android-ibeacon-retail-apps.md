@@ -16,7 +16,7 @@ Features:<br>
 *Automatically shows product information in a web view when a user holds their phone close to a psychical product. <br>
 *Automatically shows product category information in a web view when a user is close to a shelf with physical products.<br>
 *Scans for beacons<br>
-*With beacon info (UUID, Major, Minor, signalstrength, beacon's batterylevel) the app can estimate how close or far the user is to a      specific beacon which is how it gives correct information (product or category info or even a goodbye/welcome message).<br>
+*With beacon info (UUID, Major, Minor, signal strength, beacon's battery level) the app can estimate how close or far the user is to a      specific beacon which is how it gives correct information (product or category info or even a goodbye/welcome message).<br>
 *Calls a REST-API with UUID, Major, Minor and length from beacon to get back information about products or categories to show the user. <br>
 
 iBeacon = a BLE protocol created by Apple.<br>
