@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS and Android Apps for retail with iBeacon technology
+title: iBeacon for Retail as an Android and iOS App
 ---
 ![Geometric pattern with fading gradient](/img/ibeaconRetail.gif)
 
