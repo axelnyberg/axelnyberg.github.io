@@ -4,8 +4,8 @@ title: iBeacon for Retail as an Android and iOS App
 ---
 ![Geometric pattern with fading gradient](/img/ibeaconRetail.gif)
 
-These two apps were built for my thesis so valid data could be collected from retailers. 
-The thesis was about retailer’s interests in iBeacon and to make retailers really understand the concept, these two apps had to be built so they could try the technology. 
+These two applications were built by me and a classmate for our thesis so that valid data could be collected from retailers. 
+The thesis was about retailer’s interests in iBeacon and to make retailers understand the concept, these two applications had to be built so they could try the technology. 
 
 The apps were built with shared code in Xamarin Studio and is almost identical. The apps were made to look good with some features that have to do with iBeacon.
 
